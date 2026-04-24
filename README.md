@@ -1,4 +1,8 @@
-## Hi there 👋
+## hi, welcome to isa's github 🎐
+
+- 💌 UW student studying tech + public policy
+- 🩰 passionate about AI safety + good design 
+- 🍵 always down to chat (with perhaps a matcha!) 
 
 <!--
 **isabellereks/isabellereks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
